@@ -1,0 +1,9 @@
+# Report (not published)
+*.pdf
+
+# Build artifacts
+riscv
+*.o
+*~
+test-utils
+CUnit-install/
